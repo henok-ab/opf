@@ -57,7 +57,7 @@ body {
   isolation: isolate;
   overflow-x: hidden;
 
-  font-family: var(--font-nunito), system-ui, sans-serif;
+  font-family: 'Nunito', system-ui, sans-serif;
 
   background:
     radial-gradient(
